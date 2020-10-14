@@ -1,2 +1,2 @@
-# tech degree first project
- number guessing game
+# Tech Degree: First Project
+Number guessing game
